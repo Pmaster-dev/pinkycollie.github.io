@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T07:24:20.577827+00:00",
+  "updated": "2026-05-21T13:14:39.822129+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -146,13 +146,13 @@
       "full_name": "pinkycollie/deaf-first-platform",
       "url": "https://github.com/pinkycollie/deaf-first-platform",
       "description": "monorepo containing multiple services designed with accessibility as the primary focus. It includes authentication, real-time synchronization, AI workflows, and specialized accessibility nodes.",
-      "updated_at": "2026-05-21T04:32:09Z",
-      "open_issues": 33,
-      "open_prs": 33,
+      "updated_at": "2026-05-21T11:19:01Z",
+      "open_issues": 32,
+      "open_prs": 32,
       "latest_commit": {
-        "sha": "326de3e3ab704785df0b04b0ba957e82a678c72b",
-        "date": "2026-05-19T06:09:53Z",
-        "message": "chore(deps-dev): bump vitest from 2.1.9 to 4.1.6 in /backend (#89)"
+        "sha": "f27f350e51a7e24bc8bda65f28ef2a6cf9adfe07",
+        "date": "2026-05-21T11:18:57Z",
+        "message": "Merge branch 'dependabot/npm_and_yarn/services/accessibility-nodes/types/node-25.9.0' into main"
       },
       "latest_release": null,
       "private": false,
