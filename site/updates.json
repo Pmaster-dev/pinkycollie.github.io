@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T00:51:55.185525+00:00",
+  "updated": "2026-05-22T07:20:09.449262+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -247,8 +247,8 @@
       "url": "https://github.com/pinkycollie/mbtq-dev",
       "description": "MBTQ-dev platform with built in DeafAUTH, Pinksync and fibonrose that powers full-stack applications with modern tools for visual communication and compliance in vr and workforce.",
       "updated_at": "2026-05-21T04:48:21Z",
-      "open_issues": 99,
-      "open_prs": 99,
+      "open_issues": 101,
+      "open_prs": 101,
       "latest_commit": {
         "sha": "fb60fb7ef2f124e674979111d97f22302a1e21e5",
         "date": "2026-05-21T04:48:17Z",
@@ -474,13 +474,13 @@
       "full_name": "pinkycollie/VR4Deaf",
       "url": "https://github.com/pinkycollie/VR4Deaf",
       "description": "A comprehensive Deaf-first platform connecting clients with vocational rehabilitation resources, workforce solutions, and business development opportunities through AI-powered accessibility.",
-      "updated_at": "2026-05-21T06:51:19Z",
+      "updated_at": "2026-05-22T01:59:24Z",
       "open_issues": 3,
       "open_prs": 1,
       "latest_commit": {
-        "sha": "9029b7a39bf15084ab6961b3f1ba7cb5780bcd3e",
-        "date": "2026-05-21T06:51:15Z",
-        "message": "Create CreateEmploymentPlanModal.tsx (#26)\n\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
+        "sha": "90e6f398989b27e754bad3bda81081679ddaeb7a",
+        "date": "2026-05-22T01:58:56Z",
+        "message": "added domain config"
       },
       "latest_release": null,
       "private": false,
