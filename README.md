@@ -1,3 +1,5 @@
+[![Infrastructure Gate](https://github.com/pinkycollie/pinkycollie.github.io/actions/workflows/infrastructure-gate.yml/badge.svg)](https://github.com/pinkycollie/pinkycollie.github.io/actions/workflows/infrastructure-gate.yml)
+
 # Pinky Collie — Personal Site
 
 A GitHub Pages site showcasing Pinky Collie's work as a Deaf-first business architect and systems builder. This site highlights platforms, expertise, and accessibility-first approach to building technology for the Deaf community.

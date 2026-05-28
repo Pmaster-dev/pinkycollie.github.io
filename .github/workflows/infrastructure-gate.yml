@@ -2,9 +2,9 @@ name: Infrastructure Gate
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ site ]
   pull_request:
-    branches: [ main, develop ]
+    branches: [ site ]
   schedule:
     - cron: '0 */6 * * *' # Every 6 hours
   workflow_dispatch:

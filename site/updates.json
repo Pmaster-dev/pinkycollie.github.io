@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T00:53:53.546331+00:00",
+  "updated": "2026-05-28T18:57:19.797183+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -26,13 +26,13 @@
       "full_name": "PinkSync/PinkSync",
       "url": "https://github.com/PinkSync/PinkSync",
       "description": "comprehensive Layer 1 accessibility orchestration platform designed specifically for deaf users. It acts as a unified gateway connecting deaf communities with accessible services, products, and programs while providing real-time accessibility enhancements across multiple environments.",
-      "updated_at": "2026-05-14T18:34:50Z",
-      "open_issues": 1,
-      "open_prs": 1,
+      "updated_at": "2026-05-27T21:36:39Z",
+      "open_issues": 0,
+      "open_prs": 0,
       "latest_commit": {
-        "sha": "b1771370e692430ce63c433c1f0febe198425771",
-        "date": "2026-05-14T18:34:44Z",
-        "message": "Bump fast-uri from 3.1.0 to 3.1.2 in the npm_and_yarn group across 1 directory (#29)"
+        "sha": "651036bf6c8bc2c20a12504faf9d2a2c7029bd12",
+        "date": "2026-05-27T21:36:34Z",
+        "message": "Bump next from 16.2.3 to 16.2.6 in the npm_and_yarn group across 1 directory (#30)"
       },
       "latest_release": null,
       "private": false,
@@ -146,13 +146,13 @@
       "full_name": "pinkycollie/deaf-first-platform",
       "url": "https://github.com/pinkycollie/deaf-first-platform",
       "description": "monorepo containing multiple services designed with accessibility as the primary focus. It includes authentication, real-time synchronization, AI workflows, and specialized accessibility nodes.",
-      "updated_at": "2026-05-19T06:09:58Z",
+      "updated_at": "2026-05-26T00:23:58Z",
       "open_issues": 33,
       "open_prs": 33,
       "latest_commit": {
-        "sha": "326de3e3ab704785df0b04b0ba957e82a678c72b",
-        "date": "2026-05-19T06:09:53Z",
-        "message": "chore(deps-dev): bump vitest from 2.1.9 to 4.1.6 in /backend (#89)"
+        "sha": "527a5faf6f85422f334f215f9071f16aa9a44d4b",
+        "date": "2026-05-26T00:23:54Z",
+        "message": "Add Security Hardening workflow\n\nThis workflow runs security checks on pull requests and pushes to main, including audits, banned imports, secret detection, and rate limiting checks.\n\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
       },
       "latest_release": null,
       "private": false,
@@ -166,13 +166,13 @@
       "full_name": "pinkycollie/Developer-Magician",
       "url": "https://github.com/pinkycollie/Developer-Magician",
       "description": "AI\u2011Native Accessibility Engine for Deaf\u2011First, ASL\u2011Centric UX  Accessibility-Validator is a next\u2011generation developer tool that validates interfaces for true Deaf\u2011first accessibility.   Not just WCAG. Not just checklists.   This is accessibility built for sign\u2011language\u2011native users.",
-      "updated_at": "2026-05-14T16:08:59Z",
-      "open_issues": 8,
-      "open_prs": 8,
+      "updated_at": "2026-05-25T16:30:41Z",
+      "open_issues": 6,
+      "open_prs": 6,
       "latest_commit": {
-        "sha": "9f784a2e4f496c135e0f25939e749ee4eb44e188",
-        "date": "2026-05-02T22:40:33Z",
-        "message": "Merge pull request #38 from pinkycollie/dependabot/pip/pytest-gte-9.0.3\n\ndeps(deps): update pytest requirement from >=7.0.0 to >=9.0.3"
+        "sha": "6baa4879927dc4d2f1b4301c97a94f05cc33e8be",
+        "date": "2026-05-25T16:30:36Z",
+        "message": "Create ai-module.py"
       },
       "latest_release": null,
       "private": false,
@@ -226,13 +226,13 @@
       "full_name": "pinkycollie/Justifed-Idea-Generator",
       "url": "https://github.com/pinkycollie/Justifed-Idea-Generator",
       "description": "An advanced HTML-based interface for generating innovative business ideas with integrated AI support and validation tools. This application helps users justify accommodation needs for vocational rehabilitation, SBA, and other funding agencies.",
-      "updated_at": "2026-05-10T11:09:48Z",
-      "open_issues": 17,
-      "open_prs": 17,
+      "updated_at": "2026-05-24T04:23:07Z",
+      "open_issues": 16,
+      "open_prs": 16,
       "latest_commit": {
-        "sha": "7c3b71a5d784302daf8fd72d290366fb7551a833",
-        "date": "2026-05-10T11:09:42Z",
-        "message": "chore(deps): bump @radix-ui/react-label from 2.1.1 to 2.1.8\n\nBumps [@radix-ui/react-label](https://github.com/radix-ui/primitives) from 2.1.1 to 2.1.8.\n- [Changelog](https://github.com/radix-ui/primitives/blob/main/release-process.md)\n- [Commits](https://github.com/radix-ui/primitives/commits)\n\n---\nupdated-dependencies:\n- dependency-name: \"@radix-ui/react-label\"\n  dependency-version: 2.1.8\n  dependency-type: direct:production\n  update-type: version-update:semver-patch\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>"
+        "sha": "610b1de1ace55c79dabfa3397c72e39247f42b90",
+        "date": "2026-05-24T04:23:03Z",
+        "message": "chore(deps): bump tailwind-merge from 3.4.0 to 3.6.0\n\nBumps [tailwind-merge](https://github.com/dcastil/tailwind-merge) from 3.4.0 to 3.6.0.\n- [Release notes](https://github.com/dcastil/tailwind-merge/releases)\n- [Commits](https://github.com/dcastil/tailwind-merge/compare/v3.4.0...v3.6.0)\n\n---\nupdated-dependencies:\n- dependency-name: tailwind-merge\n  dependency-version: 3.6.0\n  dependency-type: direct:production\n  update-type: version-update:semver-minor\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>"
       },
       "latest_release": null,
       "private": false,
@@ -246,13 +246,13 @@
       "full_name": "pinkycollie/mbtq-dev",
       "url": "https://github.com/pinkycollie/mbtq-dev",
       "description": "MBTQ-dev platform with built in DeafAUTH, Pinksync and fibonrose that powers full-stack applications with modern tools for visual communication and compliance in vr and workforce.",
-      "updated_at": "2026-05-18T20:37:50Z",
-      "open_issues": 103,
-      "open_prs": 103,
+      "updated_at": "2026-05-27T23:49:27Z",
+      "open_issues": 106,
+      "open_prs": 106,
       "latest_commit": {
-        "sha": "c366fbca9923a820fe7efa6783c41b1cca688595",
-        "date": "2026-05-18T20:37:46Z",
-        "message": "\u26a1 Bolt: [performance improvement] (#154)\n\n\ud83d\udca1 What: Replaced sequential await operations with chunked concurrent\nexecution (chunk size of 10) using Promise.all() in webhook retries.\n\ud83c\udfaf Why: To prevent O(N) network blocking and drastically speed up\nprocessing failed webhooks.\n\ud83d\udcca Impact: Reduces webhook retry processing time from O(N) to O(N/10),\nsignificantly improving backend efficiency.\n\ud83d\udd2c Measurement: Run a stress test triggering numerous webhook failures,\nthen invoke retryFailedWebhooks and measure the duration.\n\n---\n*PR created automatically by Jules for task\n[17317787770745039164](https://jules.google.com/task/17317787770745039164)\nstarted by @pinkycollie*\n\n---------\n\nCo-authored-by: google-labs-jules[bot] <161369871+google-labs-jules[bot]@users.noreply.github.com>"
+        "sha": "75b74fa5ea3bb253f3806a2ed534bbb3fec9a3aa",
+        "date": "2026-05-27T23:49:23Z",
+        "message": "Update .nvmrc"
       },
       "latest_release": null,
       "private": false,
@@ -302,12 +302,12 @@
       "full_name": "pinkycollie/NegraRosa",
       "url": "https://github.com/pinkycollie/NegraRosa",
       "description": "an innovative security and identity verification framework.",
-      "updated_at": "2026-05-18T22:49:58Z",
-      "open_issues": 19,
-      "open_prs": 19,
+      "updated_at": "2026-05-28T09:01:19Z",
+      "open_issues": 17,
+      "open_prs": 17,
       "latest_commit": {
-        "sha": "3ffc93a84f4fd44bc5bca144d3f600295d443416",
-        "date": "2026-05-18T22:49:54Z",
+        "sha": "1a262175943626fbe66e594691f5711e32771fba",
+        "date": "2026-05-28T09:00:55Z",
         "message": "chore: update SBOM [skip ci]"
       },
       "latest_release": null,
@@ -358,13 +358,13 @@
       "full_name": "pinkycollie/pinkflow",
       "url": "https://github.com/pinkycollie/pinkflow",
       "description": "polygot-container",
-      "updated_at": "2026-05-18T03:21:45Z",
-      "open_issues": 5,
-      "open_prs": 5,
+      "updated_at": "2026-05-27T18:45:06Z",
+      "open_issues": 6,
+      "open_prs": 6,
       "latest_commit": {
-        "sha": "8054a45096dbe3447c6e260f49456d28309c13b4",
-        "date": "2026-05-18T03:21:41Z",
-        "message": "chore(deps): bump transformers\n\nBumps the pip group with 1 update in the /scripts directory: [transformers](https://github.com/huggingface/transformers).\n\n\nUpdates `transformers` from 4.57.6 to 5.0.0rc3\n- [Release notes](https://github.com/huggingface/transformers/releases)\n- [Commits](https://github.com/huggingface/transformers/compare/v4.57.6...v5.0.0rc3)\n\n---\nupdated-dependencies:\n- dependency-name: transformers\n  dependency-version: 5.0.0rc3\n  dependency-type: direct:production\n  dependency-group: pip\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>"
+        "sha": "7fd263a5177ac5ef9c48864ff2f0be42fedd6988",
+        "date": "2026-05-27T18:45:02Z",
+        "message": "Create journey-classifer.py"
       },
       "latest_release": null,
       "private": false,
@@ -398,13 +398,13 @@
       "full_name": "pinkycollie/pinksync_estimator",
       "url": "https://github.com/pinkycollie/pinksync_estimator",
       "description": "A full AI\u2011powered productivity + cost\u2011estimation platform",
-      "updated_at": "2026-04-26T19:27:18Z",
-      "open_issues": 2,
-      "open_prs": 2,
+      "updated_at": "2026-05-25T12:27:21Z",
+      "open_issues": 1,
+      "open_prs": 1,
       "latest_commit": {
-        "sha": "c6d3d7dc1af453870e8e8c13fb08944e2dacaed0",
-        "date": "2026-04-26T19:27:12Z",
-        "message": "Bump python-dotenv in the uv group across 1 directory (#107)"
+        "sha": "2596a121ba6e73a4dd2a3c3eb1dce9467a02045f",
+        "date": "2026-05-25T12:27:16Z",
+        "message": "Bump idna from 3.10 to 3.15 in the uv group across 1 directory (#108)"
       },
       "latest_release": null,
       "private": false,
@@ -412,6 +412,26 @@
       "org": null,
       "status": "personal",
       "category": "Accessibility Tools"
+    },
+    {
+      "repo": "Pinkyai-prod",
+      "full_name": "pinkycollie/Pinkyai-prod",
+      "url": "https://github.com/pinkycollie/Pinkyai-prod",
+      "description": "A TanStack Start project with Neon, Sentry, Prisma, Better Auth, Tanstack Query, and Cloudflare",
+      "updated_at": "2026-05-26T02:46:32Z",
+      "open_issues": 0,
+      "open_prs": 0,
+      "latest_commit": {
+        "sha": "076966e695dcb3fe54051a4e1f173ef5bf74d834",
+        "date": "2026-05-26T02:46:28Z",
+        "message": "Initial commit from TanStack Builder"
+      },
+      "latest_release": null,
+      "private": false,
+      "owner": "pinkycollie",
+      "org": null,
+      "status": "personal",
+      "category": "Core Identity"
     },
     {
       "repo": "pinkycollie",
@@ -428,6 +448,26 @@
       "org": null,
       "status": "personal",
       "category": "Community Projects"
+    },
+    {
+      "repo": "SaaS-tabsrack",
+      "full_name": "pinkycollie/SaaS-tabsrack",
+      "url": "https://github.com/pinkycollie/SaaS-tabsrack",
+      "description": "A TanStack Start project with Neon, Form, Sentry, Shadcn, Tanstack Query, Better Auth, Drizzle, and Cloudflare",
+      "updated_at": "2026-05-26T02:42:11Z",
+      "open_issues": 0,
+      "open_prs": 0,
+      "latest_commit": {
+        "sha": "96a29002f5fe143ceaecea1d7da55ab9e7e4cef0",
+        "date": "2026-05-26T02:42:09Z",
+        "message": "Add project files"
+      },
+      "latest_release": null,
+      "private": false,
+      "owner": "pinkycollie",
+      "org": null,
+      "status": "personal",
+      "category": "Core Identity"
     },
     {
       "repo": "Signing-Bot",
@@ -474,13 +514,13 @@
       "full_name": "pinkycollie/VR4Deaf",
       "url": "https://github.com/pinkycollie/VR4Deaf",
       "description": "A comprehensive Deaf-first platform connecting clients with vocational rehabilitation resources, workforce solutions, and business development opportunities through AI-powered accessibility.",
-      "updated_at": "2026-05-18T23:16:11Z",
+      "updated_at": "2026-05-23T02:42:35Z",
       "open_issues": 2,
       "open_prs": 0,
       "latest_commit": {
-        "sha": "4de4a8dbc369e4f7e00e0233539fd1ba6f02f7f6",
-        "date": "2026-05-18T23:16:06Z",
-        "message": "Potential fix for pull request finding 'CodeQL / Workflow does not contain permissions'\n\nCo-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com>\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
+        "sha": "8ff85caee725c607869967a016fb139ea17ed85e",
+        "date": "2026-05-23T02:42:31Z",
+        "message": "Create ProgramTypeSelect.tsx (#25)\n\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
       },
       "latest_release": null,
       "private": false,
@@ -494,13 +534,13 @@
       "full_name": "VR4DEAF/businessmagician",
       "url": "https://github.com/VR4DEAF/businessmagician",
       "description": "A comprehensive business formation platform for deaf entrepreneurs, providing tools for business development, document management, and self-employment services.",
-      "updated_at": "2026-05-18T17:40:07Z",
-      "open_issues": 12,
-      "open_prs": 12,
+      "updated_at": "2026-05-27T00:20:16Z",
+      "open_issues": 13,
+      "open_prs": 13,
       "latest_commit": {
-        "sha": "b25e034584ec8163d5e4631023dceca6fd380a72",
-        "date": "2026-05-18T17:40:02Z",
-        "message": "Bump postcss in the npm_and_yarn group across 1 directory\n\nBumps the npm_and_yarn group with 1 update in the / directory: [postcss](https://github.com/postcss/postcss).\n\n\nUpdates `postcss` from 8.5.6 to 8.5.14\n- [Release notes](https://github.com/postcss/postcss/releases)\n- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)\n- [Commits](https://github.com/postcss/postcss/compare/8.5.6...8.5.14)\n\n---\nupdated-dependencies:\n- dependency-name: postcss\n  dependency-version: 8.5.14\n  dependency-type: direct:development\n  dependency-group: npm_and_yarn\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>"
+        "sha": "1628fee3c44514995c3cb57e6af459777ca10fc0",
+        "date": "2026-05-27T00:20:12Z",
+        "message": "Create server.yml"
       },
       "latest_release": null,
       "private": false,
@@ -534,7 +574,7 @@
       "full_name": "MBTQ-dev/Auto-API",
       "url": "https://github.com/MBTQ-dev/Auto-API",
       "description": "Visual-first API integration with auto-deployment to mbtq.dev",
-      "updated_at": "2026-05-15T11:56:27Z",
+      "updated_at": "2026-05-24T02:02:20Z",
       "open_issues": 0,
       "open_prs": 0,
       "latest_commit": {
@@ -574,13 +614,13 @@
       "full_name": "MBTQ-dev/DEAF-FIRST-PLATFORM2",
       "url": "https://github.com/MBTQ-dev/DEAF-FIRST-PLATFORM2",
       "description": "monorepo containing multiple services designed with accessibility as the primary focus. It includes authentication, real-time synchronization, AI workflows, and specialized accessibility nodes.",
-      "updated_at": "2026-05-18T23:27:26Z",
+      "updated_at": "2026-05-27T19:13:24Z",
       "open_issues": 51,
       "open_prs": 51,
       "latest_commit": {
-        "sha": "c428735ce97cd9662541548306c68bd7de4c022d",
-        "date": "2026-05-18T23:27:22Z",
-        "message": "Create _config.yml\n\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
+        "sha": "ea28da071b2ade7a25ae809895a270b92effbb98",
+        "date": "2026-05-27T19:13:20Z",
+        "message": "Update README.md"
       },
       "latest_release": null,
       "private": false,
@@ -594,13 +634,13 @@
       "full_name": "PinkSync/Core-principles",
       "url": "https://github.com/PinkSync/Core-principles",
       "description": "API Broker for Deaf Accessibility",
-      "updated_at": "2026-03-14T23:34:46Z",
+      "updated_at": "2026-05-26T16:20:58Z",
       "open_issues": 1,
       "open_prs": 1,
       "latest_commit": {
-        "sha": "3f1ce662ab0e6e10ae96556820e56e48fc3ef420",
-        "date": "2026-03-14T23:34:42Z",
-        "message": "Create src"
+        "sha": "10cbb85b635332eec9255a4b38a41b242a622df3",
+        "date": "2026-05-26T16:20:44Z",
+        "message": "Add PinkSync API - DEAF FIRST Platform Services with FastAPI, frontend components, Docker, and documentation\n\nCo-authored-by: pinkycollie\n<199848471+pinkycollie@users.noreply.github.com>"
       },
       "latest_release": null,
       "private": false,
