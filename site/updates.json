@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T18:52:19.443058+00:00",
+  "updated": "2026-05-28T00:48:35.080962+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -26,13 +26,13 @@
       "full_name": "PinkSync/PinkSync",
       "url": "https://github.com/PinkSync/PinkSync",
       "description": "comprehensive Layer 1 accessibility orchestration platform designed specifically for deaf users. It acts as a unified gateway connecting deaf communities with accessible services, products, and programs while providing real-time accessibility enhancements across multiple environments.",
-      "updated_at": "2026-05-14T18:34:50Z",
-      "open_issues": 1,
-      "open_prs": 1,
+      "updated_at": "2026-05-27T21:36:39Z",
+      "open_issues": 0,
+      "open_prs": 0,
       "latest_commit": {
-        "sha": "b1771370e692430ce63c433c1f0febe198425771",
-        "date": "2026-05-14T18:34:44Z",
-        "message": "Bump fast-uri from 3.1.0 to 3.1.2 in the npm_and_yarn group across 1 directory (#29)"
+        "sha": "651036bf6c8bc2c20a12504faf9d2a2c7029bd12",
+        "date": "2026-05-27T21:36:34Z",
+        "message": "Bump next from 16.2.3 to 16.2.6 in the npm_and_yarn group across 1 directory (#30)"
       },
       "latest_release": null,
       "private": false,
@@ -246,13 +246,13 @@
       "full_name": "pinkycollie/mbtq-dev",
       "url": "https://github.com/pinkycollie/mbtq-dev",
       "description": "MBTQ-dev platform with built in DeafAUTH, Pinksync and fibonrose that powers full-stack applications with modern tools for visual communication and compliance in vr and workforce.",
-      "updated_at": "2026-05-27T17:16:31Z",
+      "updated_at": "2026-05-27T23:49:27Z",
       "open_issues": 105,
       "open_prs": 105,
       "latest_commit": {
-        "sha": "ca51c47622461a3a45184005bf10dfb14e28b1c7",
-        "date": "2026-05-27T17:16:25Z",
-        "message": "fix: resolve CI failure by migrating NPM security audit to pnpm and Node 24\n\nThe NPM Security Audit workflow was failing because it expected `package-lock.json`, but this project strictly uses `pnpm-lock.yaml`. Additionally, Node.js 20 actions are deprecated.\nThis updates `.github/workflows/security.yml` to:\n1. Use `pnpm/action-setup` before `setup-node`.\n2. Specify `cache: 'pnpm'` and `cache-dependency-path: '**/pnpm-lock.yaml'` in `setup-node`.\n3. Change `node-version` from 20 to 24 to resolve deprecation warnings.\n4. Replace `npm audit` with `pnpm audit`.\n\nCo-authored-by: pinkycollie <199848471+pinkycollie@users.noreply.github.com>"
+        "sha": "75b74fa5ea3bb253f3806a2ed534bbb3fec9a3aa",
+        "date": "2026-05-27T23:49:23Z",
+        "message": "Update .nvmrc"
       },
       "latest_release": null,
       "private": false,
@@ -303,8 +303,8 @@
       "url": "https://github.com/pinkycollie/NegraRosa",
       "description": "an innovative security and identity verification framework.",
       "updated_at": "2026-05-27T00:08:15Z",
-      "open_issues": 16,
-      "open_prs": 16,
+      "open_issues": 17,
+      "open_prs": 17,
       "latest_commit": {
         "sha": "e5aab4d3d5d20591c58dbf22f739a5b73fe01ce9",
         "date": "2026-05-27T00:08:11Z",
@@ -614,13 +614,13 @@
       "full_name": "MBTQ-dev/DEAF-FIRST-PLATFORM2",
       "url": "https://github.com/MBTQ-dev/DEAF-FIRST-PLATFORM2",
       "description": "monorepo containing multiple services designed with accessibility as the primary focus. It includes authentication, real-time synchronization, AI workflows, and specialized accessibility nodes.",
-      "updated_at": "2026-05-18T23:27:26Z",
+      "updated_at": "2026-05-27T19:13:24Z",
       "open_issues": 51,
       "open_prs": 51,
       "latest_commit": {
-        "sha": "c428735ce97cd9662541548306c68bd7de4c022d",
-        "date": "2026-05-18T23:27:22Z",
-        "message": "Create _config.yml\n\nSigned-off-by: Pinky Collie <199848471+pinkycollie@users.noreply.github.com>"
+        "sha": "ea28da071b2ade7a25ae809895a270b92effbb98",
+        "date": "2026-05-27T19:13:20Z",
+        "message": "Update README.md"
       },
       "latest_release": null,
       "private": false,
