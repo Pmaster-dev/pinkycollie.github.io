@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T18:27:59.821252+00:00",
+  "updated": "2026-05-31T00:55:44.835874+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -302,12 +302,12 @@
       "full_name": "pinkycollie/NegraRosa",
       "url": "https://github.com/pinkycollie/NegraRosa",
       "description": "an innovative security and identity verification framework.",
-      "updated_at": "2026-05-28T09:01:19Z",
+      "updated_at": "2026-05-31T00:24:30Z",
       "open_issues": 17,
       "open_prs": 17,
       "latest_commit": {
-        "sha": "1a262175943626fbe66e594691f5711e32771fba",
-        "date": "2026-05-28T09:00:55Z",
+        "sha": "62992e5f89c6fac66f64e278f2e6663cfa809858",
+        "date": "2026-05-31T00:24:26Z",
         "message": "chore: update SBOM [skip ci]"
       },
       "latest_release": null,
