@@ -4,8 +4,8 @@ from typing import List
 import requests
 
 MAIN_USER = os.environ.get("MAIN_USER", "pinkycollie")
-ORG_LIST = os.environ.get("ORG_LIST", "MBTQ-dev,PinkSync,VR4DEAF")
-OFFICIAL_ORG = os.environ.get("OFFICIAL_ORG", "PinkSync")
+ORG_LIST = os.environ.get("ORG_LIST", "MBTQ-dev,PinkSync,VR4DEAF, Deafauth, Fibonrose, 360-magicians")
+OFFICIAL_ORG = os.environ.get("OFFICIAL_ORG", "MBTQ-dev")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 API_URL = "https://api.github.com"
 HEADERS = {"Accept": "application/vnd.github+json"}
