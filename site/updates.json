@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T07:36:30.139329+00:00",
+  "updated": "2026-06-05T13:07:53.151245+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -594,13 +594,13 @@
       "full_name": "MBTQ-dev/deploy-admin",
       "url": "https://github.com/MBTQ-dev/deploy-admin",
       "description": "administrative dashboard for all microservices serving deaf community",
-      "updated_at": "2026-06-05T07:03:50Z",
+      "updated_at": "2026-06-05T08:37:09Z",
       "open_issues": 0,
       "open_prs": 0,
       "latest_commit": {
-        "sha": "2677ba90738af7ce6374e63d4896529210e3e85d",
-        "date": "2026-06-05T07:03:44Z",
-        "message": "changed domain for service to service communicstion"
+        "sha": "8dcbc842689e18a50162bcde37555d7283a595d0",
+        "date": "2026-06-05T08:37:04Z",
+        "message": "mod.ts"
       },
       "latest_release": null,
       "private": false,
@@ -674,13 +674,13 @@
       "full_name": "360-Magicians/main",
       "url": "https://github.com/360-Magicians/main",
       "description": "Analysis API",
-      "updated_at": "2026-06-04T09:52:58Z",
+      "updated_at": "2026-06-05T09:40:06Z",
       "open_issues": 1,
       "open_prs": 1,
       "latest_commit": {
-        "sha": "97cf711c75bc0f3e8efd25e4f7976093617cd0b5",
-        "date": "2026-06-04T09:52:54Z",
-        "message": "Update layout.tsx"
+        "sha": "8d00053985222eaccffa015779da90b4e200ca2b",
+        "date": "2026-06-05T09:40:02Z",
+        "message": "Update README.md"
       },
       "latest_release": null,
       "private": false,
