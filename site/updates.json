@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T00:57:10.556579+00:00",
+  "updated": "2026-06-11T07:48:07.578845+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -66,13 +66,13 @@
       "full_name": "pinkycollie/ai-magicians-gcp",
       "url": "https://github.com/pinkycollie/ai-magicians-gcp",
       "description": "360 Magicians Vertical AI Platform - a federated AI worker system designed to make digital experiences accessible to 70+ million deaf people worldwide.",
-      "updated_at": "2026-05-03T23:04:20Z",
+      "updated_at": "2026-06-11T03:16:21Z",
       "open_issues": 1,
       "open_prs": 1,
       "latest_commit": {
-        "sha": "fb499415ed4c935c04213305ce065556e0208ec6",
-        "date": "2026-05-03T19:25:02Z",
-        "message": "Merge pull request #5 from pinkycollie/dependabot/npm_and_yarn/npm_and_yarn-edc2f2fe5d"
+        "sha": "e51f6492483775edec45810faecc7c0b3408a9b5",
+        "date": "2026-06-11T03:16:17Z",
+        "message": "Merge pull request #6 from pinkycollie/dependabot/npm_and_yarn/npm_and_yarn-b976e9ae45"
       },
       "latest_release": null,
       "private": false,
