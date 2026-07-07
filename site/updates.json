@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T18:40:21.186743+00:00",
+  "updated": "2026-07-07T00:45:59.729646+00:00",
   "repos": [
     {
       "repo": "DeafAUTH",
@@ -147,7 +147,7 @@
       "url": "https://github.com/pinkycollie/deaf-first-platform",
       "description": "monorepo containing multiple services designed with accessibility as the primary focus. It includes authentication, real-time synchronization, AI workflows, and specialized accessibility nodes.",
       "updated_at": "2026-06-05T19:45:56Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "open_prs": 25,
       "latest_commit": {
         "sha": "cffaef64c6d4431a954595b59cf0f4a116d3fb2d",
@@ -226,7 +226,7 @@
       "full_name": "pinkycollie/Justifed-Idea-Generator",
       "url": "https://github.com/pinkycollie/Justifed-Idea-Generator",
       "description": "An advanced HTML-based interface for generating innovative business ideas with integrated AI support and validation tools. This application helps users justify accommodation needs for vocational rehabilitation, SBA, and other funding agencies.",
-      "updated_at": "2026-05-24T04:23:07Z",
+      "updated_at": "2026-07-06T09:00:17Z",
       "open_issues": 16,
       "open_prs": 16,
       "latest_commit": {
@@ -246,9 +246,9 @@
       "full_name": "pinkycollie/mbtq-dev",
       "url": "https://github.com/pinkycollie/mbtq-dev",
       "description": "MBTQ-dev platform with built in DeafAUTH, Pinksync and fibonrose that powers full-stack applications with modern tools for visual communication and compliance in vr and workforce.",
-      "updated_at": "2026-06-05T22:01:43Z",
-      "open_issues": 111,
-      "open_prs": 110,
+      "updated_at": "2026-06-29T12:36:27Z",
+      "open_issues": 113,
+      "open_prs": 112,
       "latest_commit": {
         "sha": "cfcdf749693998f3ad58fbe30a3b3cd10948ab7f",
         "date": "2026-06-05T22:01:35Z",
@@ -302,12 +302,12 @@
       "full_name": "pinkycollie/NegraRosa",
       "url": "https://github.com/pinkycollie/NegraRosa",
       "description": "an innovative security and identity verification framework.",
-      "updated_at": "2026-06-21T00:27:53Z",
+      "updated_at": "2026-07-05T00:22:12Z",
       "open_issues": 23,
       "open_prs": 23,
       "latest_commit": {
-        "sha": "fb02df715491e05b60eecfbf5767e855d6cc18ab",
-        "date": "2026-06-21T00:27:49Z",
+        "sha": "1934e8f6f34de77330b87d3154adb165351815bc",
+        "date": "2026-07-05T00:22:08Z",
         "message": "chore: update SBOM [skip ci]"
       },
       "latest_release": null,
